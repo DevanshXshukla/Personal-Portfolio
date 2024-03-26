@@ -139,7 +139,7 @@ section{
    animation: floatImage 4s ease-in-out infinite;
     object-fit: cover;
     transition: 0.3s ease;
-    border-radius: 40%;
+    border-radius: 50%;
     
 
  }
@@ -207,7 +207,7 @@ section{
     width: 25vw;
     transition: 0.3s ease;
     box-shadow: none;
-    border-radius: 40%;
+    border-radius: 50%;
     object-fit: cover;
     
     
