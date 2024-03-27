@@ -209,6 +209,7 @@ section{
     box-shadow: none;
     border-radius: 50%;
     object-fit: cover;
+     animation: floatImage 4s ease-in-out infinite;
     
     
 }
